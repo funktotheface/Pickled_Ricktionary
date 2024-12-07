@@ -1,5 +1,8 @@
 console.log('Hello, world!');
+const gameWord = document.querySelector('#gameWord');
+const alphabetContainer = document.querySelector('#alphabet-Container');
 const characterImage = document.querySelector('#charSprite');
+
 
 let randomId;
 

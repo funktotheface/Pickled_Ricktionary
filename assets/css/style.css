@@ -1,7 +1,7 @@
 body {
     background: radial-gradient(rgb(184, 231, 200) 0%, rgb(0, 155, 39) 100%);
     background-size: 150% 150%;
-    animation: gradientShift 8s ease infinite;
+    animation: gradientShift 8s alternate-reverse infinite;
 }
 
 @keyframes gradientShift {
@@ -17,6 +17,7 @@ body {
 }
 
 #gameContainer {
+    margin-top: 3rem;
 
 }
 
