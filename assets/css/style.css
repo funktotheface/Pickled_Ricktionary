@@ -2,6 +2,21 @@
 
 }
 
+#charSprite {
+    max-width: 10rem;
+
+}
+
+#characterInfo {
+    text-align: right;
+}
+
+
+
+#gameWord {
+    text-align: center;
+}
+
 #wrongLetters {
     text-align: center;
 }
@@ -10,10 +25,4 @@
     text-align: center;
 }
 
-#characterInfo {
-    text-align: right;
-}
 
-#gameWord {
-    text-align: center;
-}
