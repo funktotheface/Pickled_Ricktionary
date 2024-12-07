@@ -1,3 +1,15 @@
+#gameContainer {
+
+}
+
+#wrongLetters {
+    text-align: center;
+}
+
+#guessesLeft{
+    text-align: center;
+}
+
 #characterInfo {
     text-align: right;
 }
