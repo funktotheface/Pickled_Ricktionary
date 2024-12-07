@@ -1,5 +1,5 @@
-html body {
-    background-color: greenyellow;
+body {
+    background: radial-gradient(circle, rgb(211, 235, 219) 0%, rgb(0, 155, 39) 100%);
 }
 
 #gameContainer {
