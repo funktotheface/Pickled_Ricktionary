@@ -12,6 +12,9 @@ html body {
 
 #charSprite {
     max-width: 10rem;
+    border: 5px outset black;
+    border-radius: 10px;
+    
 
 }
 
