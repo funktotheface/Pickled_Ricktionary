@@ -1,5 +1,13 @@
+html body {
+    background-color: greenyellow;
+}
+
 #gameContainer {
 
+}
+
+#image_data_container {
+    margin-top: 3rem;
 }
 
 #charSprite {
@@ -15,6 +23,7 @@
 
 #gameWord {
     text-align: center;
+    margin-top: 3rem;
 }
 
 #wrongLetters {
